@@ -12,7 +12,10 @@
   },
   "dependencies": {
     "next": "^15.3.5",
-    "ollama": "^0.5.16"
+    "ollama": "^0.5.16",
+    "react-markdown": "^10.1.0",
+    "rehype-highlight": "^7.0.2",
+    "remark-gfm": "^4.0.1"
   },
   "devDependencies": {
     "@types/node": "^24.0.12",
